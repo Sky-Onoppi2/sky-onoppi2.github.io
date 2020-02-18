@@ -626,7 +626,7 @@ input[type]:focus {
   .usacafe {
     top: 26px;
     left: 97px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
     font-size: xx-large;
     width: 200px;
     color: #565656;
@@ -663,7 +663,7 @@ input[type]:focus {
   .usacafe2 {
     top: 92px;
     left: 213px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
     font-size: 62px;
     width: 360px;
     color: #ffffff;
@@ -690,7 +690,7 @@ input[type]:focus {
     .usacafe2 {
       top: 128px;
       left: 220px;
-      font-family: 'Comic Sans MS';
+      font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
       font-size: 40px;
       width: 360px;
       color: #ffffff;
@@ -739,7 +739,7 @@ input[type]:focus {
   .usacafe {
     top: 26px;
     left: 97px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
     font-size: xx-large;
     width: 200px;
     color: #565656;
@@ -773,7 +773,7 @@ input[type]:focus {
   .usacafe2 {
     top: 128px;
     left: 220px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
     font-size: 40px;
     width: 360px;
     color: #ffffff;
@@ -781,6 +781,17 @@ input[type]:focus {
   .container-b {
     max-width: 85%;
     margin: auto;
+  }
+}
+
+@media screen and (max-width: 458.98px) {
+  .usacafe2 {
+    top: 128px;
+    left: 220px;
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
+    font-size: 28px;
+    width: 360px;
+    color: #ffffff;
   }
 }
 
@@ -837,8 +848,8 @@ input[type]:focus {
   width: 50px;
   height: 50px;
   position: fixed;
-  right: 1px;
-  bottom: 1px;
+  right: 10px;
+  bottom: 10px;
   background: #f7a6ad;
   opacity: 0.7;
   border-radius: 50%;
