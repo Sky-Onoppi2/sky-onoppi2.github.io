@@ -136,7 +136,7 @@ header a,
 .usacafe {
   top: 9px;
   left: 110px;
-  font-family: 'Comic Sans MS';
+  font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
   font-size: 50px;
   width: 220px;
   color: #8a8a8a;
@@ -248,7 +248,7 @@ iframe {
 .usacafe2 {
   top: 120px;
   left: 215px;
-  font-family: 'Comic Sans MS';
+  font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
   font-size: 36px;
   width: 220px;
   color: #ffffff;
@@ -529,7 +529,7 @@ input[type]:focus {
   .usacafe2 {
     top: 120px;
     left: 195px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
     font-size: 36px;
     width: 220px;
     color: #ffffff;
@@ -544,7 +544,7 @@ input[type]:focus {
   .usacafe2 {
     top: 120px;
     left: 195px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
     font-size: 28px;
     width: 220px;
     color: #ffffff;
@@ -559,7 +559,7 @@ input[type]:focus {
   .usacafe2 {
     top: 92px;
     left: 333px;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', 'Comfortaa', sans-serif;
     font-size: 62px;
     width: 360px;
     color: #ffffff;
